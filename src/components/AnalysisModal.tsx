@@ -108,14 +108,6 @@ export default function AnalysisModal({
                     {isStreaming && (
                       <span className="inline-block w-2 h-5 animate-pulse ml-1 bg-yellow-primary"></span>
                     )}
-                    {!isStreaming && analysis && (
-                      <div className="mt-6 pt-4 border-t border-gray-200">
-                        <p className="text-xs text-gray-600 leading-relaxed">
-                          <strong>免責事項：</strong>
-                          本情報は公開市場データを集約した参考情報です。将来の市場状況や株価、運用成果を示唆・保証するものではありません。特定銘柄の売買推奨や投資助言ではありません。投資判断は必ずご自身の責任で行ってください。
-                        </p>
-                      </div>
-                    )}
                   </div>
                 )}
               </div>
