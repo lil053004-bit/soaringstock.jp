@@ -161,7 +161,7 @@ export default function AnalysisModal({
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold mt-0.5 text-yellow-dark">✓</span>
-                  <span><strong className="text-yellow-dark">現在無料</strong>：追加料金は発生しません（将来変更の可能性があります）</span>
+                  <span>追加料金は発生しません</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold mt-0.5 text-yellow-dark">✓</span>

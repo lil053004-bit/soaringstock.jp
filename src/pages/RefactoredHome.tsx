@@ -465,7 +465,10 @@ export default function RefactoredHome() {
                   style={{
                     fontFamily: 'M PLUS Rounded 1c, sans-serif',
                   }}>
-                  AI株式情報分析ツール（参考情報の提供）
+                  株式情報ツール（参考情報の提供）
+                </p>
+                <p className="text-xs md:text-sm text-charcoal/70 mt-1">
+                  ※投資助言・勧誘ではありません
                 </p>
               </div>
 
